@@ -1,0 +1,19 @@
+body {background-color:red;}
+h1{color" blue"}
+a{font-weight:bold;color:blue;}
+a{color:white;background-color:black;}
+<element id="biography">
+#biography {background-color: black;}
+table> thead {background-color: orange}
+p.green a{color: yellow}
+p.red a{color:white}
+.classname h1 {
+    text-decoration: underline;
+}
+
+.classname h2 {
+    text-decoration: underline;
+}
+h1, h2 {
+    text-decoration: underline;
+}
